@@ -1,3 +1,9 @@
+# Umpan Lambung Sistem Kendali
+
+By: NISY 
+
+## Semoga B-EK diberi ketabahan dan pemahaman 😭
+
 | Tugas              | Tanggal Penugasan | Tanggal Pengumpulan | Link                                       |
 | ------------------ | ----------------- | ------------------- | ------------------------------------------ |
 | 01. Pendahuluan    | 10 September 2026 | 1 Oktober 2026      | ![Pendahuluan](pendahuluan/pendahuluan.md) |
