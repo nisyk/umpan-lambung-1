@@ -1,41 +1,5 @@
-# umpan-lambung-1
-Umpan Lambung Sistem Kendali Latihan 1
-
-## Soal No. 5
-### Perhitungan
-
-![Perhitungan 5](assets/5-hitung.png)
-
-### Rangkaian
-
-![Rangkaian 5](assets/5-rangkaian.png)
-
-### Output
-
-![Output 5](assets/5-output.png)
-
-## Soal No. 6
-### Perhitungan
-
-![Perhitungan 6](assets/6-hitung.png)
-
-### Rangkaian
-
-![Rangkaian 6](assets/6-rangkaian.png)
-
-### Output
-
-![Output 6](assets/6-output.png)
-
-## Soal No. 7
-### Perhitungan
-
-![Perhitungan 7](assets/7-hitung.png)
-
-### Rangkaian
-
-![Rangkaian 7](assets/7-rangkaian.png)
-
-### Output
-
-![Output 7](assets/7-output.png)
+| Tugas              | Tanggal Penugasan | Tanggal Pengumpulan | Link                                       |
+| ------------------ | ----------------- | ------------------- | ------------------------------------------ |
+| 01. Pendahuluan    | 10 September 2026 | 1 Oktober 2026      | ![Pendahuluan](pendahuluan/pendahuluan.md) |
+| 02. Fungsi Alih 01 | 17 September 2026 | 1 Oktober 2026      | Gak ada di sini, well 😜                   |
+| 03. Fungsi Alih 02 | 24 September 2026 | 1 Oktober 2026      | ![Fungsi Alih 2](fungsi-alih2/tf2.md)       |
